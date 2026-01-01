@@ -1,0 +1,121 @@
+- [x] Amazonka
+- [ ] Arizona texas
+- [ ] Batalion
+- [ ] Bedna od whisky
+- [x] bláznova ukolébavka
+- [x] Blues folsomske věznice
+- [ ] Boží mlýny 
+- [ ] Bratříčku zavirj vratka
+- [ ] Cesta na Island C kapo 2
+- [ ] Cesto má 
+- [ ] Cestou do jenkovic
+- [x] Co jsem měl dnes k obědu 
+- [ ] Čarodějnice z amesbury
+- [ ] Černej pasažér
+- [ ] Černý muž pod bičem otrokáře
+- [ ] Červená řeka 
+- [ ] Červená se line záře 
+- [ ] Čtyři bytelný kola
+- [ ] Čůrání ve stoje
+- [ ] Dajána
+- [ ] Dej mi víc své lásky 
+- [ ] Děvče na neděli 
+- [ ] Divnej smích 
+- [ ] Dvě baby
+- [ ] Dvě rusky
+- [ ] Eldorádo 
+- [ ] Este som si neoženil
+- [ ] Frankie dlouhán 
+- [ ] Galanecka
+- [ ] Gorila
+- [ ] gs
+- [ ] Guantanamo
+- [ ] Helpa
+- [ ] Hrobař
+- [x] Hudsonsky sify
+- [ ] Jantarová země
+- [ ] Jarní kurýr 
+- [x] Jarni tání
+- [ ] Jaro
+- [ ] Jdem zpátky do lesů
+- [ ] Jedu si to v bledě modrým trabantu 
+- [ ] Jesse james
+- [ ] Ještě jedno kafe
+- [ ] Jez
+- [ ] Jožin z bažin 
+- [ ] Karavana mraků
+- [ ] Kdyby tady byla 
+- [x] Když náš táta hrál
+- [ ] Klada
+- [ ] Kluziště
+- [ ] Kocabku naram 
+- [ ] Kytara kvůli tobě 
+- [ ] Lano co k nebi nás pouta 
+- [ ] Lásko
+- [ ] Little big horn 
+- [ ] Lodnikuv lament 
+- [ ] Lucka neumí luxovat
+- [ ] Magdalena
+- [ ] Má holka mává 
+- [ ] Malování
+- [ ] Mám malý stan
+- [x] Marnivá sestřenice
+- [ ] Mezi horami 
+- [ ] Míle
+- [ ] Montgomery
+- [ ] Morče moskviče
+- [ ] Morče za volantem
+- [ ] Morituri te salutant
+- [ ] Nad stádem koni
+- [ ] Není nutno
+- [ ] Okoř
+- [ ] O princezně a o hrádku 
+- [ ] Panenka
+- [x] Píseň co mě učil listopad
+- [ ] Pískající cikan
+- [ ] Proměny 
+- [ ] Příšera 
+- [ ] Quantanamera
+- [ ] Ráda se miluje
+- [x] Rána v trávě 
+- [ ] Rodné údolí
+- [ ] Rosa na kolejích
+- [x] Rovnou
+- [ ] Růže z papíru
+- [ ] Růže z Texasu
+- [ ] Růžička
+- [ ] Ryl jen celej den ryl
+- [ ] Salome 
+- [ ] Severní vítr
+- [ ] Slavíci z Madridu 
+- [ ] Slunečný hrob
+- [ ] Slunovrat 
+- [ ] Stánky
+- [ ] Starý příběh 
+- [ ] Studený nohy
+- [ ] Širý proud
+- [ ] Švestkový knedlíky 
+- [ ] Tak spinkej ať ve tvých snech
+- [ ] Tak už mi má holka mava
+- [ ] Tisíc mil
+- [ ] Točí se točí 
+- [ ] Tonka
+- [ ] Toulavej
+- [ ] Tři kříže
+- [ ] Tulácký ráno
+- [ ] Ukolébavka pro lidušku
+- [x] Už to nenapravim
+- [ ] Včelín
+- [ ] Veličenstvo kat
+- [ ] Velrybářská výprava 
+- [ ] vodácká holka
+- [ ] Vzhůru na palubu 
+- [ ] watanay
+- [ ] Za císaře pána 
+- [ ] Zafukane
+- [x] Za svou pravdou stát 
+- [ ] Zatracenej život
+- [ ] Ze všech chlapů nejšťastnější chlap
+- [x] Zlatokop tom
+- [ ] Zvláštní znamení 
+- [ ] Želva 
