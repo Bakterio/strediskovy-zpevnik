@@ -11,7 +11,7 @@ file = "songbook.pdf"
 file = "songbook.html"
 
 [book]
-title = "My Songbook"
-subtitle = "(You can edit that title!)"
-chorus_label = "Ch"
-title_note = "(And this note too...)"
+title = "Střediskovej zpěvník"
+subtitle = ""
+chorus_label = "R"
+title_note = "2026"
