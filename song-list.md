@@ -99,7 +99,7 @@
 - [ ] Tak už mi má holka mava
 - [ ] Tisíc mil
 - [ ] Točí se točí 
-- [ ] Tonka
+- [x] Tonka
 - [ ] Toulavej
 - [ ] Tři kříže
 - [ ] Tulácký ráno
