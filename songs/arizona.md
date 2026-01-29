@@ -13,22 +13,22 @@
 `A`ležel tam muž k `E`zemi skole`A`ný.
 (`A`na zemi byl `E`kovboj skole`A`ný.)
 
-2. Obrátím ho k sobě obličejem,
+2. Sklonil jsem se k jeho obličeji,
 poznal jsem v něm svého dvojníka,
-jeho tělo bylo probodáno nožem,
-horká krev mu z rány vytéká.
+jeho tělo bylo probodáno noži,
+horká krev mu z rány vytýká.
    
 !>
 
 3. Pravil ke mně hlasem zmírajícím:
-Kamaráde, druhu jediný,
+Příteli, můj drahý přemilý,
 byla to léčka, já to nevěděl,
-  jako starej vůl jsem naletěl.
+jako starej vůl jsem naletěl.
 
 !>
 
-4. Kdo chce hochu Arizonu poznat,
-kdo chce hochu Arizonu znát,
+4. Nechtěj hochu Arizonu znáti,
+těžký je tam život kovboje,
 musí umět střílet, ženy milovat,
 potom může Arizonu znát.
 
