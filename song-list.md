@@ -5,7 +5,7 @@
 - [x] bláznova ukolébavka
 - [x] Blues folsomske věznice
 - [x] Boží mlýny 
-- [ ] Bratříčku zavirj vratka
+- [x] Bratříčku zavírej vrátka
 - [ ] Cesta na Island C kapo 2
 - [ ] Cesto má 
 - [ ] Cestou do jenkovic
