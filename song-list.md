@@ -4,7 +4,7 @@
 - [x] Bedna od whisky
 - [x] bláznova ukolébavka
 - [x] Blues folsomske věznice
-- [ ] Boží mlýny 
+- [x] Boží mlýny 
 - [ ] Bratříčku zavirj vratka
 - [ ] Cesta na Island C kapo 2
 - [ ] Cesto má 
