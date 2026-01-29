@@ -39,7 +39,7 @@
 - [ ] Jaro
 - [x] Jdem zpátky do lesů
 - [ ] Jedu si to v bledě modrým trabantu 
-- [ ] Jesse james
+- [x] Jesse james
 - [ ] Ještě jedno kafe
 - [ ] Jez
 - [ ] Jožin z bažin 
