@@ -72,7 +72,7 @@
 - [ ] O princezně a o hrádku 
 - [ ] Panenka
 - [x] Píseň co mě učil listopad
-- [ ] Pískající cikan
+- [x] Pískající cikan
 - [ ] Proměny 
 - [ ] Příšera 
 - [ ] Quantanamera
