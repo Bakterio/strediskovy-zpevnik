@@ -11,7 +11,7 @@ file = "songbook.pdf"
 file = "songbook.html"
 
 [book]
-title = "Střediskovej zpěvník"
-subtitle = ""
+title = "Strediskovy zpevnik"
+subtitle = "."
 chorus_label = "R"
 title_note = "2026"
