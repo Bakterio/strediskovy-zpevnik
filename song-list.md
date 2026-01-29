@@ -81,7 +81,7 @@
 - [ ] Rodné údolí
 - [ ] Rosa na kolejích
 - [x] Rovnou
-- [ ] Růže z papíru
+- [x] Růže z papíru
 - [ ] Růže z Texasu
 - [ ] Růžička
 - [ ] Ryl jen celej den ryl
