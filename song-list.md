@@ -1,7 +1,7 @@
 - [x] Amazonka
-- [ ] Arizona texas
+- [x] Arizona texas
 - [ ] Batalion
-- [ ] Bedna od whisky
+- [x] Bedna od whisky
 - [x] bláznova ukolébavka
 - [x] Blues folsomske věznice
 - [ ] Boží mlýny 
@@ -118,4 +118,4 @@
 - [ ] Ze všech chlapů nejšťastnější chlap
 - [x] Zlatokop tom
 - [ ] Zvláštní znamení 
-- [ ] Želva 
+- [ ] Želva
