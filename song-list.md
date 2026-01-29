@@ -22,7 +22,7 @@
 - [ ] Děvče na neděli 
 - [ ] Divnej smích 
 - [ ] Dvě baby
-- [ ] Dvě rusky
+- [x] Dvě rusky
 - [ ] Eldorádo 
 - [ ] Este som si neoženil
 - [ ] Frankie dlouhán 
