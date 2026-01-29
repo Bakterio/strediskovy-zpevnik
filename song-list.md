@@ -117,5 +117,5 @@
 - [ ] Zatracenej život
 - [ ] Ze všech chlapů nejšťastnější chlap
 - [x] Zlatokop tom
-- [ ] Zvláštní znamení 
+- [x] Zvláštní znamení 
 - [ ] Želva
