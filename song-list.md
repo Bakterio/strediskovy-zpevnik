@@ -52,7 +52,7 @@
 - [ ] Kytara kvůli tobě 
 - [ ] Lano co k nebi nás pouta 
 - [ ] Lásko
-- [ ] Little big horn 
+- [x] Little big horn 
 - [ ] Lodnikuv lament 
 - [ ] Lucka neumí luxovat
 - [ ] Magdalena
