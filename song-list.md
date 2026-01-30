@@ -96,13 +96,13 @@
 - [ ] Širý proud
 - [ ] Švestkový knedlíky 
 - [ ] Tak spinkej ať ve tvých snech
-- [ ] Tak už mi má holka mava
+- [x] Tak už mi má holka mava
 - [ ] Tisíc mil
 - [ ] Točí se točí 
 - [x] Tonka
 - [ ] Toulavej
 - [ ] Tři kříže
-- [ ] Tulácký ráno
+- [x] Tulácký ráno
 - [ ] Ukolébavka pro lidušku
 - [x] Už to nenapravim
 - [ ] Včelín
