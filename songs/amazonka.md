@@ -2,6 +2,8 @@
 ## Hop Trop
 *Capo 2*
 
+`G_Gsus4_G`
+
 1. `G`Byly krásný naše plány,
 byla jsi můj celej `Hmi`svět,`Bmi Ami`
 čas je `C`vzal a nechal `G`rány,
@@ -39,3 +41,7 @@ nosit dáls' ho nechtěla.
 já si přál jen, abys `G`byla
 `Ami`pořád stejná, přísa`D`hám,`Dsus4 D`
 pořád stej`C`ná, přísa-`G`hám.
+
+### Akordy
+\
+`_Gsus4_` 366633
