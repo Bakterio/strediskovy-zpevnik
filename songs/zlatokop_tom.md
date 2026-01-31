@@ -9,7 +9,7 @@ tak rozhodnul se hnedle a odjel na zá`D`pad.
 a `A7`pílu, mi`D`moto prut a červy, do torny dal konzervy 
 a `A7`jel zlato vyhle`D`dat. 
  
-> Ty jsi to moje zlato, `E`který mám tak rád, (Anežka spolkla křečka)
+> `D`Ty jsi to moje zlato, `E`který mám tak rád, (Anežka spolkla křečka)
 `A7`jen ty mi stojíš za to `D`život `G`pro tě `D`dát. 
 `G`Bez tebe zlato nic `D`není, 
 `E`jen ty jsi to moje `A7`(haťa paťa) potěšení, 

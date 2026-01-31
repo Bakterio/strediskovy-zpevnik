@@ -2,7 +2,7 @@
 ## Táborová
 
 1. `A`Šinu si to starým Coloradem,
-`A`když tu slyším výkřik vzdále`E`ný,
+`A`když tu slyším výkřik vzdále`E`ný, ``E7``
 `A`jel jsem podle `A7`hlasu `D`a k mému `Dmi`úžasu,
 `A`ležel tam muž `E`k zemi skole`A`ný.
 (`A`na zemi byl `E`kovboj skole`A`ný.)
