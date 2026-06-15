@@ -18,7 +18,7 @@
 - [x] Čtyři bytelný kola
 - [ ] Čůrání ve stoje
 - [x] Dajána
-- [ ] Dej mi víc své lásky 
+- [x] Dej mi víc své lásky
 - [ ] Děvče na neděli 
 - [ ] Divnej smích 
 - [ ] Dvě baby
