@@ -10,7 +10,7 @@
 - [x] Cesto má 
 - [ ] Cestou do jenkovic
 - [x] Co jsem měl dnes k obědu 
-- [ ] Čarodějnice z amesbury
+- [x] Čarodějnice z amesbury
 - [ ] Černej pasažér
 - [ ] Černý muž pod bičem otrokáře
 - [ ] Červená řeka 
