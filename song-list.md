@@ -13,8 +13,8 @@
 - [x] Čarodějnice z amesbury
 - [ ] Černej pasažér
 - [x] Černý muž pod bičem otrokáře
-- [x] Červená řeka 
-- [ ] Červená se line záře 
+- [x] Červená řeka
+- [x] Červená se line záře
 - [ ] Čtyři bytelný kola
 - [ ] Čůrání ve stoje
 - [ ] Dajána
