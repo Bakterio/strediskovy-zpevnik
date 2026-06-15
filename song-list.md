@@ -1,6 +1,6 @@
 - [x] Amazonka
 - [x] Arizona texas
-- [ ] Batalion
+- [x] Batalion
 - [x] Bedna od whisky
 - [x] bláznova ukolébavka
 - [x] Blues folsomske věznice
