@@ -13,7 +13,7 @@
 - [x] Čarodějnice z amesbury
 - [ ] Černej pasažér
 - [x] Černý muž pod bičem otrokáře
-- [ ] Červená řeka 
+- [x] Červená řeka 
 - [ ] Červená se line záře 
 - [ ] Čtyři bytelný kola
 - [ ] Čůrání ve stoje
