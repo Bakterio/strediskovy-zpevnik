@@ -17,7 +17,7 @@
 - [x] Červená se line záře
 - [x] Čtyři bytelný kola
 - [ ] Čůrání ve stoje
-- [ ] Dajána
+- [x] Dajána
 - [ ] Dej mi víc své lásky 
 - [ ] Děvče na neděli 
 - [ ] Divnej smích 

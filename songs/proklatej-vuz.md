@@ -31,6 +31,6 @@ Zatáhni za sebou plachtu ženo a mlč!
 
 !>
 
-Indiáni! Ú, ú, ú, ú, ú! Jsem zraněnej, jsem střelenej!
+5. Indiáni! Ú, ú, ú, ú, ú! Jsem zraněnej, jsem střelenej!
 Jéžišmarjá, vždyť já už nemám žádný kolečko! Já mám o kolečko míň!
 
