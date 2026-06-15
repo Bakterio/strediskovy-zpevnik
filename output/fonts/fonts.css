@@ -1,0 +1,51 @@
+/*
+ * This CSS is linked by the generated HTML file for font settings.
+ *
+ * NB. the fonts are renamed as BardSerif and BardSans from their real names
+ * so that they can be changed more easily. The fonts are really Droid Serif
+ * and Noto Sans (by default).
+ */
+
+/* Serif font */
+@font-face {
+    font-family: 'BardSerif';
+    src: url('BardSerif-Regular.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'BardSerif';
+    font-weight: bold;
+    src: url('BardSerif-Bold.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'BardSerif';
+    font-style: italic;
+    src: url('BardSerif-Italic.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'BardSerif';
+    font-weight: bold;
+    font-style: italic;
+    src: url('BardSerif-BoldItalic.ttf')  format('truetype');
+}
+
+/* Sans font */
+@font-face {
+    font-family: 'BardSans';
+    src: url('BardSans-Regular.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'BardSans';
+    font-weight: bold;
+    src: url('BardSans-Bold.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'BardSans';
+    font-style: italic;
+    src: url('BardSans-Italic.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'BardSans';
+    font-weight: bold;
+    font-style: italic;
+    src: url('BardSans-BoldItalic.ttf')  format('truetype');
+}
