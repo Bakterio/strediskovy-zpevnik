@@ -15,7 +15,7 @@
 - [x] Černý muž pod bičem otrokáře
 - [x] Červená řeka
 - [x] Červená se line záře
-- [ ] Čtyři bytelný kola
+- [x] Čtyři bytelný kola
 - [ ] Čůrání ve stoje
 - [ ] Dajána
 - [ ] Dej mi víc své lásky 
