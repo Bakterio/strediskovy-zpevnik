@@ -12,7 +12,7 @@
 - [x] Co jsem měl dnes k obědu 
 - [x] Čarodějnice z amesbury
 - [ ] Černej pasažér
-- [ ] Černý muž pod bičem otrokáře
+- [x] Černý muž pod bičem otrokáře
 - [ ] Červená řeka 
 - [ ] Červená se line záře 
 - [ ] Čtyři bytelný kola
