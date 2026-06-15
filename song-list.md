@@ -6,8 +6,8 @@
 - [x] Blues folsomske věznice
 - [x] Boží mlýny 
 - [x] Bratříčku zavírej vrátka
-- [ ] Cesta na Island C kapo 2
-- [ ] Cesto má 
+- [x] Cesta na Island C kapo 2
+- [x] Cesto má 
 - [ ] Cestou do jenkovic
 - [x] Co jsem měl dnes k obědu 
 - [ ] Čarodějnice z amesbury
