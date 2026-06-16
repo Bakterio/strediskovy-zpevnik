@@ -24,7 +24,7 @@
 - [x] Dvě baby
 - [x] Dvě rusky
 - [ ] Eldorádo 
-- [ ] Este som si neoženil
+- [x] Este som si neoženil
 - [ ] Frankie dlouhán 
 - [ ] Galanecka
 - [ ] Gorila
