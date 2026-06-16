@@ -1,7 +1,7 @@
 # Červená řeka
 ## Americká lidová (český text: Ivo Fisher)
 
-1. Pod tou `D`skálou, kde `D7`proud řeky `G`syčí,
+1. Pod tou `D`skálou, kde `D7`proud řeky `G`syčí, ``D``
 a kde `D`ční červe`H7`ný kame`Emi`ní,     `A7`
 žije `D`ten, co mi `D7`jen srdce `G`ničí,
 koho `D`já ráda `A7`mám k zblázně`D`ní.

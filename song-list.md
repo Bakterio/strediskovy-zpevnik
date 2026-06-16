@@ -21,7 +21,7 @@
 - [x] Dej mi víc své lásky
 - [ ] Děvče na neděli 
 - [x] Divnej smích 
-- [ ] Dvě baby
+- [x] Dvě baby
 - [x] Dvě rusky
 - [ ] Eldorádo 
 - [ ] Este som si neoženil
