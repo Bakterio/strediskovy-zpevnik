@@ -20,7 +20,7 @@
 - [x] Dajána
 - [x] Dej mi víc své lásky
 - [ ] Děvče na neděli 
-- [ ] Divnej smích 
+- [x] Divnej smích 
 - [ ] Dvě baby
 - [x] Dvě rusky
 - [ ] Eldorádo 
