@@ -9,7 +9,7 @@
 - [x] Cesta na Island C kapo 2
 - [x] Cesto má 
 - [ ] Cestou do jenkovic
-- [x] Co jsem měl dnes k obědu 
+- [x] Co jsem měl dnes k obědu
 - [x] Čarodějnice z amesbury
 - [ ] Černej pasažér
 - [x] Černý muž pod bičem otrokáře
@@ -20,12 +20,12 @@
 - [x] Dajána
 - [x] Dej mi víc své lásky
 - [ ] Děvče na neděli 
-- [x] Divnej smích 
+- [x] Divnej smích
 - [x] Dvě baby
 - [x] Dvě rusky
-- [ ] Eldorádo 
+- [ ] Eldorádo
 - [x] Este som si neoženil
-- [ ] Frankie dlouhán 
+- [x] Frankie dlouhán
 - [ ] Galanecka
 - [ ] Gorila
 - [ ] gs
