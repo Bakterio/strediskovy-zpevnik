@@ -41,7 +41,7 @@
 - [ ] Jedu si to v bledě modrým trabantu 
 - [x] Jesse james
 - [ ] Ještě jedno kafe
-- [ ] Jez
+- [x] Jez
 - [ ] Jožin z bažin 
 - [ ] Karavana mraků
 - [ ] Kdyby tady byla 
