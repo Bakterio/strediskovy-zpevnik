@@ -2,7 +2,7 @@
 ## Spirituál kvintet
 
 1. `G`Dívka `Ami`loudá se `Hmi`vini`Ami`cí, `G`tam, kde `Ami`zídka je `Hmi`níz`Ami`ká,
-`G`tam, kde `Ami`stráň končí `Hmi`voní`C`cí, si `G`písnič`C`ku někdo `G`pí-`C`í-`D`ská.
+`G`tam, kde `Ami`stráň končí `Hmi`voní`C`cí, si `G`písnič`C`ku někdo `G`pí-`C`í-s`D`ká.
 
 2. Ohlédne se a "propána!", v stínu, kde stojí líska,
 švarného vidí cikána, jak leží, písničku píská.
