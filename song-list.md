@@ -43,7 +43,7 @@
 - [ ] Ještě jedno kafe
 - [x] Jez
 - [ ] Jožin z bažin 
-- [ ] Karavana mraků
+- [x] Karavana mraků
 - [ ] Kdyby tady byla 
 - [x] Když náš táta hrál
 - [ ] Klada
