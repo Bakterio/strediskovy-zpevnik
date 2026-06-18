@@ -87,7 +87,7 @@
 - [ ] Ryl jen celej den ryl
 - [ ] Salome 
 - [ ] Severní vítr
-- [ ] Slavíci z Madridu 
+- [x] Slavíci z Madridu 
 - [ ] Slunečný hrob
 - [ ] Slunovrat 
 - [ ] Stánky
