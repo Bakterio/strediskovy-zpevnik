@@ -82,7 +82,7 @@
 - [ ] Rosa na kolejích
 - [x] Rovnou
 - [x] Růže z papíru
-- [ ] Růže z Texasu
+- [x] Růže z Texasu
 - [ ] Růžička
 - [ ] Ryl jen celej den ryl
 - [ ] Salome 
