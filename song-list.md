@@ -78,7 +78,7 @@
 - [ ] Quantanamera
 - [ ] Ráda se miluje
 - [x] Rána v trávě 
-- [ ] Rodné údolí
+- [x] Rodné údolí
 - [ ] Rosa na kolejích
 - [x] Rovnou
 - [x] Růže z papíru
