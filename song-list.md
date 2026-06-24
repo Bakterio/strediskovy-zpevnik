@@ -88,7 +88,7 @@
 - [ ] Salome 
 - [ ] Severní vítr
 - [x] Slavíci z Madridu 
-- [ ] Slunečný hrob
+- [x] Slunečný hrob
 - [ ] Slunovrat 
 - [ ] Stánky
 - [ ] Starý příběh 
