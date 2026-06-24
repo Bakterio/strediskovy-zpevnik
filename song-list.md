@@ -79,7 +79,7 @@
 - [ ] Ráda se miluje
 - [x] Rána v trávě 
 - [x] Rodné údolí
-- [ ] Rosa na kolejích
+- [x] Rosa na kolejích
 - [x] Rovnou
 - [x] Růže z papíru
 - [x] Růže z Texasu
