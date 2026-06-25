@@ -111,7 +111,7 @@
 - [ ] vodácká holka
 - [ ] Vzhůru na palubu 
 - [ ] watanay
-- [ ] Za císaře pána 
+- [x] Za císaře pána 
 - [ ] Zafukane
 - [x] Za svou pravdou stát 
 - [ ] Zatracenej život
