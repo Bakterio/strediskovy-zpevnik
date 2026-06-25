@@ -114,7 +114,7 @@
 - [x] Za císaře pána 
 - [ ] Zafukane
 - [x] Za svou pravdou stát 
-- [ ] Zatracenej život
+- [x] Zatracenej život
 - [ ] Ze všech chlapů nejšťastnější chlap
 - [x] Zlatokop tom
 - [x] Zvláštní znamení 
