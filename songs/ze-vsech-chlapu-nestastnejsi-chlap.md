@@ -1,6 +1,8 @@
 # Ze všech chlapů nejšťastnější chlap
 ## Wabi Ryvola, Miki Ryvola
 
+### Předehra
+\
 To `Dmi`znám, to dobře `Ami`znám, znám, znám,
 `E7`na kolejích nejsem nikdy `Ami`sám.
 

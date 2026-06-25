@@ -112,7 +112,7 @@
 - [ ] Vzhůru na palubu 
 - [ ] watanay
 - [x] Za císaře pána 
-- [ ] Zafukane
+- [x] Zafukane
 - [x] Za svou pravdou stát 
 - [x] Zatracenej život
 - [x] Ze všech chlapů nejšťastnější chlap
