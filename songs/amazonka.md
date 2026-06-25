@@ -16,7 +16,7 @@ i když si tak neříká.
 
 > `D`Nebe `D7`modrý zrcad`G`lí se
 `E`v řece, `E7`která všechno `Ami`ví,
-stejnou ``C``barvu jako `G`měly
+stejnou barvu jako `G`měly
 `Ami`tvoje oči džíno`D`vý.`Dsus4 D`
 
 3. Kluci tenkrát, co tě znali,
