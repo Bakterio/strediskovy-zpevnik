@@ -118,4 +118,4 @@
 - [ ] Ze všech chlapů nejšťastnější chlap
 - [x] Zlatokop tom
 - [x] Zvláštní znamení 
-- [ ] Želva
+- [x] Želva
