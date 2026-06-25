@@ -4,10 +4,10 @@
 - [x] Bedna od whisky
 - [x] bláznova ukolébavka
 - [x] Blues folsomske věznice
-- [x] Boží mlýny 
+- [x] Boží mlýny
 - [x] Bratříčku zavírej vrátka
 - [x] Cesta na Island C kapo 2
-- [x] Cesto má 
+- [x] Cesto má
 - [ ] Cestou do jenkovic
 - [x] Co jsem měl dnes k obědu
 - [x] Čarodějnice z amesbury
@@ -19,7 +19,7 @@
 - [ ] Čůrání ve stoje
 - [x] Dajána
 - [x] Dej mi víc své lásky
-- [ ] Děvče na neděli 
+- [ ] Děvče na neděli
 - [x] Divnej smích
 - [x] Dvě baby
 - [x] Dvě rusky
@@ -34,33 +34,33 @@
 - [ ] Hrobař
 - [x] Hudsonsky sify
 - [ ] Jantarová země
-- [x] Jarní kurýr 
+- [x] Jarní kurýr
 - [x] Jarni tání
 - [ ] Jaro
 - [x] Jdem zpátky do lesů
-- [ ] Jedu si to v bledě modrým trabantu 
+- [ ] Jedu si to v bledě modrým trabantu
 - [x] Jesse james
 - [ ] Ještě jedno kafe
 - [x] Jez
-- [ ] Jožin z bažin 
+- [ ] Jožin z bažin
 - [x] Karavana mraků
-- [ ] Kdyby tady byla 
+- [ ] Kdyby tady byla
 - [x] Když náš táta hrál
 - [ ] Klada
 - [ ] Kluziště
-- [ ] Kocabku naram 
-- [ ] Kytara kvůli tobě 
-- [ ] Lano co k nebi nás pouta 
+- [ ] Kocabku naram
+- [ ] Kytara kvůli tobě
+- [ ] Lano co k nebi nás pouta
 - [ ] Lásko
-- [x] Little big horn 
-- [ ] Lodnikuv lament 
+- [x] Little big horn
+- [ ] Lodnikuv lament
 - [ ] Lucka neumí luxovat
 - [ ] Magdalena
-- [ ] Má holka mává 
+- [ ] Má holka mává
 - [ ] Malování
 - [ ] Mám malý stan
 - [x] Marnivá sestřenice
-- [ ] Mezi horami 
+- [ ] Mezi horami
 - [ ] Míle
 - [ ] Montgomery
 - [ ] Morče moskviče
@@ -69,15 +69,15 @@
 - [ ] Nad stádem koni
 - [ ] Není nutno
 - [ ] Okoř
-- [ ] O princezně a o hrádku 
+- [ ] O princezně a o hrádku
 - [ ] Panenka
 - [x] Píseň co mě učil listopad
 - [x] Pískající cikan
-- [ ] Proměny 
-- [ ] Příšera 
+- [ ] Proměny
+- [ ] Příšera
 - [ ] Quantanamera
 - [ ] Ráda se miluje
-- [x] Rána v trávě 
+- [x] Rána v trávě
 - [x] Rodné údolí
 - [x] Rosa na kolejích
 - [x] Rovnou
@@ -85,20 +85,20 @@
 - [x] Růže z Texasu
 - [ ] Růžička
 - [ ] Ryl jen celej den ryl
-- [ ] Salome 
+- [ ] Salome
 - [ ] Severní vítr
-- [x] Slavíci z Madridu 
+- [x] Slavíci z Madridu
 - [x] Slunečný hrob
-- [ ] Slunovrat 
+- [ ] Slunovrat
 - [x] Stánky
-- [x] Starý příběh 
+- [x] Starý příběh
 - [x] Studený nohy
 - [ ] Širý proud
-- [x] Švestkový knedlíky 
+- [x] Švestkový knedlíky
 - [ ] Tak spinkej ať ve tvých snech
 - [x] Tak už mi má holka mava
 - [x] Tisíc mil
-- [ ] Točí se točí 
+- [ ] Točí se točí
 - [x] Tonka
 - [x] Toulavej
 - [x] Tři kříže
@@ -107,15 +107,15 @@
 - [x] Už to nenapravim
 - [x] Včelín
 - [ ] Veličenstvo kat
-- [ ] Velrybářská výprava 
+- [ ] Velrybářská výprava
 - [ ] vodácká holka
 - [x] Vzhůru na palubu
 - [ ] watanay
-- [x] Za císaře pána 
+- [x] Za císaře pána
 - [x] Zafukane
-- [x] Za svou pravdou stát 
+- [x] Za svou pravdou stát
 - [x] Zatracenej život
 - [x] Ze všech chlapů nejšťastnější chlap
 - [x] Zlatokop tom
-- [x] Zvláštní znamení 
+- [x] Zvláštní znamení
 - [x] Želva
