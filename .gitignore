@@ -1,2 +1,7 @@
 *.pdf
 *.html
+*.aux
+*.log
+*.out
+*.toc
+
