@@ -94,7 +94,7 @@
 - [x] Starý příběh 
 - [ ] Studený nohy
 - [ ] Širý proud
-- [ ] Švestkový knedlíky 
+- [x] Švestkový knedlíky 
 - [ ] Tak spinkej ať ve tvých snech
 - [x] Tak už mi má holka mava
 - [x] Tisíc mil
