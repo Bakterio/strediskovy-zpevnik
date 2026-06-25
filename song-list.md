@@ -90,7 +90,7 @@
 - [x] Slavíci z Madridu 
 - [x] Slunečný hrob
 - [ ] Slunovrat 
-- [ ] Stánky
+- [x] Stánky
 - [ ] Starý příběh 
 - [ ] Studený nohy
 - [ ] Širý proud
