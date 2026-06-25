@@ -97,7 +97,7 @@
 - [ ] Švestkový knedlíky 
 - [ ] Tak spinkej ať ve tvých snech
 - [x] Tak už mi má holka mava
-- [ ] Tisíc mil
+- [x] Tisíc mil
 - [ ] Točí se točí 
 - [x] Tonka
 - [ ] Toulavej
