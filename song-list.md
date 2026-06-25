@@ -92,7 +92,7 @@
 - [ ] Slunovrat 
 - [x] Stánky
 - [x] Starý příběh 
-- [ ] Studený nohy
+- [x] Studený nohy
 - [ ] Širý proud
 - [x] Švestkový knedlíky 
 - [ ] Tak spinkej ať ve tvých snech
