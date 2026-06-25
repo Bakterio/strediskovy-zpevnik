@@ -8,7 +8,7 @@
 - [x] Bratříčku zavírej vrátka
 - [x] Cesta na Island C kapo 2
 - [x] Cesto má
-- [ ] Cestou do jenkovic
+- [n] Cestou do jenkovic
 - [x] Co jsem měl dnes k obědu
 - [x] Čarodějnice z amesbury
 - [ ] Černej pasažér
@@ -16,10 +16,10 @@
 - [x] Červená řeka
 - [x] Červená se line záře
 - [x] Čtyři bytelný kola
-- [ ] Čůrání ve stoje
+- [n] Čůrání ve stoje
 - [x] Dajána
 - [x] Dej mi víc své lásky
-- [ ] Děvče na neděli
+- [n] Děvče na neděli
 - [x] Divnej smích
 - [x] Dvě baby
 - [x] Dvě rusky
@@ -28,7 +28,6 @@
 - [x] Frankie dlouhán
 - [ ] Galanecka
 - [ ] Gorila
-- [ ] gs
 - [ ] Guantanamo
 - [ ] Helpa
 - [ ] Hrobař
@@ -38,7 +37,7 @@
 - [x] Jarni tání
 - [ ] Jaro
 - [x] Jdem zpátky do lesů
-- [ ] Jedu si to v bledě modrým trabantu
+- [n] Jedu si to v bledě modrým trabantu
 - [x] Jesse james
 - [ ] Ještě jedno kafe
 - [x] Jez
@@ -46,25 +45,24 @@
 - [x] Karavana mraků
 - [ ] Kdyby tady byla
 - [x] Když náš táta hrál
-- [ ] Klada
+- [ ] Kláda
 - [ ] Kluziště
 - [ ] Kocabku naram
 - [ ] Kytara kvůli tobě
 - [ ] Lano co k nebi nás pouta
-- [ ] Lásko
+- [n] Lásko
 - [x] Little big horn
 - [ ] Lodnikuv lament
-- [ ] Lucka neumí luxovat
+- [ ] Lucka neumí luxovat ???
 - [ ] Magdalena
-- [ ] Má holka mává
 - [ ] Malování
-- [ ] Mám malý stan
+- [ ] Mám malý stan (to nejde hrát ani zpívat)
 - [x] Marnivá sestřenice
 - [ ] Mezi horami
-- [ ] Míle
+- [n] Míle
 - [ ] Montgomery
-- [ ] Morče moskviče
-- [ ] Morče za volantem
+- [n] Morče moskviče
+- [n] Morče za volantem
 - [ ] Morituri te salutant
 - [ ] Nad stádem koni
 - [ ] Není nutno
@@ -89,13 +87,13 @@
 - [ ] Severní vítr
 - [x] Slavíci z Madridu
 - [x] Slunečný hrob
-- [ ] Slunovrat
+- [n] Slunovrat
 - [x] Stánky
 - [x] Starý příběh
 - [x] Studený nohy
-- [ ] Širý proud
+- [n] Širý proud
 - [x] Švestkový knedlíky
-- [ ] Tak spinkej ať ve tvých snech
+- [n] Tak spinkej ať ve tvých snech
 - [x] Tak už mi má holka mava
 - [x] Tisíc mil
 - [ ] Točí se točí
@@ -103,7 +101,7 @@
 - [x] Toulavej
 - [x] Tři kříže
 - [x] Tulácký ráno
-- [ ] Ukolébavka pro lidušku
+- [n] Ukolébavka pro lidušku
 - [x] Už to nenapravim
 - [x] Včelín
 - [ ] Veličenstvo kat
