@@ -109,7 +109,7 @@
 - [ ] Veličenstvo kat
 - [ ] Velrybářská výprava 
 - [ ] vodácká holka
-- [ ] Vzhůru na palubu 
+- [x] Vzhůru na palubu
 - [ ] watanay
 - [x] Za císaře pána 
 - [x] Zafukane
