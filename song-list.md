@@ -101,7 +101,7 @@
 - [ ] Točí se točí 
 - [x] Tonka
 - [ ] Toulavej
-- [ ] Tři kříže
+- [x] Tři kříže
 - [x] Tulácký ráno
 - [ ] Ukolébavka pro lidušku
 - [x] Už to nenapravim
