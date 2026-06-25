@@ -115,7 +115,7 @@
 - [ ] Zafukane
 - [x] Za svou pravdou stát 
 - [x] Zatracenej život
-- [ ] Ze všech chlapů nejšťastnější chlap
+- [x] Ze všech chlapů nejšťastnější chlap
 - [x] Zlatokop tom
 - [x] Zvláštní znamení 
 - [x] Želva
