@@ -91,7 +91,7 @@
 - [x] Slunečný hrob
 - [ ] Slunovrat 
 - [x] Stánky
-- [ ] Starý příběh 
+- [x] Starý příběh 
 - [ ] Studený nohy
 - [ ] Širý proud
 - [ ] Švestkový knedlíky 
