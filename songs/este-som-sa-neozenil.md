@@ -1,8 +1,10 @@
 # Eště som sa neoženil
 ## Lidová
 
+!+5
+
 1. `Emi`Eště som sa neoženil `H7`už ma žena `Emi`bije.
-`Emi`Dau som si ja prihotovic `H7`tri dubové `Emi`ky`D`je
+`Emi`preto som si prihotovil `H7`tri dubové `Emi`ky`D`je
 /: `G`S jedým budem ženu bici,
 `Ami`a s tým druhým `D`dzeci, dzeci, `H7`dzeci, dzeci,
 `Emi`a s tým tretím kyja, kyja`Ami`čiskom `Emi`pojdzem `H7`na zá`Emi`le`D`ty. :/

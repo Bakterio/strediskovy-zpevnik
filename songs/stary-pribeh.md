@@ -1,7 +1,9 @@
 # Starý příběh
 ## Spirituál kvintet
 
-1. Řek' `F`Mojžíš jednou lidu svému "Přišel čas,
+!-3
+
+1. Řek `F`Mojžíš jednou lidu svému "Přišel čas,
 dnes v noci tiše `Ami`vytratí se `B`každý `C7`z nás."
 `F`Mává, `B`mává nám `F`všem svo`B`bodná `F`zem.  `B`   `F`
 

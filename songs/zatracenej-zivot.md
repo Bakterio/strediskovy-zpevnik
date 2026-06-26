@@ -1,6 +1,8 @@
 # Zatracenej život
 ## Greenhorns
 
+!-5
+
 1. `G`To bylo v Dakotě `C`po vejpla`G`tě,
 whisky jsem tam pašo`D`val,
 `G`a že jsem byl sám `C`jako kůl v plo`G`tě,
@@ -12,7 +14,7 @@ než jsem jí stačil řict, že je hezká,
 zpěněnej býk se k nám hnal.
 
 > `G`Povídám: `C`Jupí, čerte, `G`jdi radši dál,
-pak jsem ho za rohy `D`vzal (a zahodil),
+pak jsem ho za rohy `D`vzal (a zahodil!),
 `G`udělal přemet a `C`jako tur `G`řval,
 do dáli `D`upalo`G`val.
 
@@ -39,7 +41,7 @@ Belzebub s partou stál vprostřed cesty,
 zavětřil jsem neštěstí.
 
 >> `G`Povídá: `C`Jupí, čerte, `G`jdi radši dál,
-potom mě za nohy `D`vzal (a zahodil),
+pak jsem ho za rohy `D`vzal (a zahodil!),
 `G`udělal jsem přemet, `C`jako tur `G`řval,
 do dáli `D`upalo`G`val.
 

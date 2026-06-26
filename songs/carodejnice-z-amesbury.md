@@ -1,12 +1,16 @@
 # Čarodějnice z Amesbury
 ## Asonance
 
-1. Zuzana `Dmi`byla dívka, `C`která žila `Dmi`v Amesbury,
+!+7
+
+1. Zuzana `Dmi`byla dívka, `Ami`která žila `Dmi`v Amesbury,
 s jasnýma `F`očima a `C`řečmi pánům `Dmi`navzdory,
 souse`F`dé o ní `C`říkali, že `Dmi`temná kouzla `Ami`zná
 a že `B`se lidem `Ami`vyhýbá a s `B`ďáblem `C`pletky `Dmi`má.
 
-`Dmi_C_Dmi`
+### Mezihra
+\
+`Dmi_Ami_Dmi`
 `F_C_Dmi`
 `F_C_Dmi_Ami`
 `B_Ami_B_C_Dmi`
@@ -23,7 +27,7 @@ teď na své cestě poslední do pekla poletíš!"
 
 4. Dosvědčil jeden sedlák, že zná její umění,
 ďábelským kouzlem prý se v netopýra promění
-a v noci nad krajinou létává pod černou oblohou,
+a v noci létává nad krajinou pod černou oblohou,
 sedlákům krávy zabíjí tou mocí čarovnou.
 
 5. Jiný zas na kříž přísahal, že její kouzla zná,

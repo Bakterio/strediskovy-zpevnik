@@ -10,7 +10,7 @@ kapit`Ami`án John `D7`Brown to `G`zřel.
 `C`glory, glory, hale`G`luja,
 glory, glory, hale`H7`lu`Emi`ja,
 kapit`Ami`án John `D7`Brown to `G`zřel.
- 
+
 2. /: Sebral z Virginie černých přátel šik, :/
 sebral z Virginie černých přátel šik,
 prapor svobody pak zdvih'.

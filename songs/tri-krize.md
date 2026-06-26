@@ -4,7 +4,7 @@
 `_Dmi_`
 
 1. `Dmi`Dávám sbohem `C`břehům prokla`Ami`tejm,
-který v `Dmi`spárech má `C`ďábel `Dmi`sám.
+který v `Dmi`drápech má `C`ďábel `Dmi`sám.
 `Dmi`Bílou přídí `C`šalupa “My `Ami`grave” míří
 `Dmi`k útesům `C`který `Dmi`znám.
 
@@ -16,16 +16,16 @@ lodní `Dmi`deník co `C`sám do něj `Dmi`psal.
 2. První kříž má pod sebou jen hřích,
 samý pití a rvačky jen.
 Chřestot nožů, při kterých přejde smích,
-srdce kámen a jméno “Sten.”  
+srdce kámen a jméno “Sten”.
 
-!> 
+!>
 
 3. Já, Bob Green, mám tváře zjizvený,
 štěkot psa zněl, když jsem se smál.
 Druhej kříž mám a spím pod zemí,
 že jsem falešný karty hrál.
 
-!> 
+!>
 
 4. Třetí kříž snad vyvolá jen vztek,
 Katy Rodgers těm dvoum život vzal.

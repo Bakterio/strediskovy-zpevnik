@@ -6,16 +6,16 @@
 1. `Emi`Posledních `D`pár minut `C`zbejvá `Emi`jen,
 máš teplou `D`dlaň a už se `A`stmí`Emi`vá,
 těžký je `D`říct, že se `C`končí `Emi`den,
-vlak posled`D`ní vagón `A`mí`C`ííí`E`vá. ``E7``
+vlak posled`D`ní vagón `A`mí`C`ííí`E`vá.
 
 > `G`Tak už mi má holka mává,
-ve vočích má sl``F#``zy `F`páli`D`vý.
+ve vočích má slzy `F`páli`D`vý.
 `Emi`Život jde dál, to se `C`stává, `A7`já to `D7`vím,
 `G`tak už mi má holka mává,
-výpravčí zele``F#``nou `F`dááá`D`vá.
+výpravčí zelenou `F`dááá`D`vá.
 Tak `Emi`jeď, jeď, jeď,
 tak jeď, jeď, jeď,
-tak jeď.
+no tak jeď.
 
 2. Koleje jsou cejchem loučení,
 holkám se ve vočích střádá,

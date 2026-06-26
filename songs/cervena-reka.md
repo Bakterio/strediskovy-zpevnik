@@ -1,10 +1,10 @@
 # Červená řeka
 ## Americká lidová (český text: Ivo Fisher)
 
-1. Pod tou `D`skálou, kde `D7`proud řeky `G`syčí, ``D``
+1. Pod tou `D`skálou, kde `D7`proud řeky `G`syčí,
 a kde `D`ční červe`H7`ný kame`Emi`ní,     `A7`
 žije `D`ten, co mi `D7`jen srdce `G`ničí,
-koho `D`já ráda `A7`mám k zblázně`D`ní.
+toho `D`já ráda `A7`mám k zblázně`D`ní.
 
 2. Vím, že lásku jak trám lehce slíbí,
 já ho znám, srdce má děravý,
@@ -17,7 +17,7 @@ vestu má ušitou z hadích kůží,
 bitej pás, na něm pár pistolí.
 
 4. Hned se ptá, jak se mám, jak se daří,
-kdy mu prý už to svý srdce dám,
+a kdy prý mu to svý srdce dám,
 ale já odpovím, že čas maří,
 srdce blíž Červený řeky mám.
 
@@ -25,3 +25,4 @@ srdce blíž Červený řeky mám.
 hlavu mám bolavou závratí,
 ale já přesto dál budu věrná,
 dokud sám se zas k nám nevrátí.
+

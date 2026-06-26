@@ -21,7 +21,7 @@ otá`C`čí, otá`G`čí, otá`F`čí.
 pane, `F`já bych mlel, až by se `C`chvěla zem,
 to mi `F`věřte, uměl bych `C`dobře mlít,
 já bych `D`věděl komu ubrat, komu `G`přitlačit,
-ty mlýny `C`čeka`F`jí někde `C`za námi,
+ty mlýny `C`čeka`F`jí někde `C`nad námi,
 až `F7`zdola zazní naše `C`volání,
 až zazní `E`jeden `E7`lidský `Ami`hlas, `F`
 proboha `C`melte, `G7`je `C`čas.

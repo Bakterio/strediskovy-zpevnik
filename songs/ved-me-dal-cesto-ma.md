@@ -1,5 +1,8 @@
 # Veď mě dál, cesto má
-## Pavel Bobek (česká verze)
+## John Denver (český text: Pavel Bobek)
+
+!-7
+
 1. `G`Někde v dálce `Emi`cesty končí,
 `D`každá prý však `C`cíl svůj `G`skrývá.
 `G`Někde v dálce, `Emi`každá má svůj cíl,

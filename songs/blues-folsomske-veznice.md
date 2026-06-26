@@ -1,5 +1,5 @@
 # Blues Folsomské věznice
-## Greenhorns
+## Johnny Cash (český text: Jan Vyčítal)
  
 1. Můj `C`děda bejval blázen, texaskej ahasver,
 a na půdě nám po něm zůstal `C7`ošoupanej kvér,

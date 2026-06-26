@@ -4,9 +4,9 @@
 1. `C`Slunce je zlatou skobou `Ami`na vobloze přibitý,
 `F`pod sluncem `G`sedlo kože`C`ný, `G7`
 `C`pod sedlem kůň, pod koněm `Ami`moje boty rozbitý
-`F`a starý `G`ruce sedře`C`ný.
+`F`a starý `G`ruce sedře`C`ný.   `C7`
 
-> `C7`Dopředu `F`jít s tou `G`karavanou `Ami`mraků,
+> Dopředu `F`jít s tou `G`karavanou `Ami`mraků,
 schovat svou `F`pleš pod `G`stetson děra`Ami`vý,
 /: jen kousek `Dmi`jít, jen `G7`chvíli, `Ami`do soumra`Dmi`ku,
 až tam, kde `Ami`svítí město, `E`město běla`Ami`vý. :/ `G7`

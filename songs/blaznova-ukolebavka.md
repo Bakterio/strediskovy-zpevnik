@@ -1,8 +1,10 @@
 # Bláznova ukolébavka
 ## Pavel Dydovič
 
+!+7
+
 1. `G`Máš, má ovečko, `D`dávno spát, už `C`píseň ptáků `G`končí,
-kvůli nám přestal i `D`vítr vát, jen `C`můra zírá `G`zvenčí,
+kvůli nám přestal `D`vítr vát, jen `C`můra zírá `G`zvenčí,
 já `D`znám její zášť, tak `C`vyhledej skrýš,
 zas `D`má bílej plášť a v `C`okně je `D`mříž.
 

@@ -29,6 +29,6 @@ kmen Siouxů je statečný a dobře svůj kraj zná.
 4. Pak všechno ztichlo a jen tamtam duní nad krajem,
 v oblaku prachu mizí Siouxů vítězný kmen,
 cáry vlajky hvězdnatý, po kopcích vítr vál,
-tam uprostřed svých vojáků, leží i generál.
+tam uprostřed svejch vojáků, leží i generál.
 
 !>

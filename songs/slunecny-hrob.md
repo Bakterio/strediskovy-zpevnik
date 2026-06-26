@@ -26,7 +26,6 @@ kterej si `G#mi`rád hraje, který je `F#mi`s tebou. `E`
 
 `E`Vrátím `F#mi`se   `G#mi`  a chtěl bych `F#mi`rád
 `E`být s `F#mi`tebou,   `G#mi`   zavzpo`F#mi`mínat,
-E   F#mi Asmi F#mi       E  E7
 `E`Mám tu `F#mi`teď   `G#mi`   ale `F#mi`zprávu `E`zlou.   `E7`
 
 `C#m`Su`D#m`chá `A`hlína `G#m`ta`F#m`dy,

@@ -1,7 +1,8 @@
 # Už to nenapravím
 ## Jaroslav Lenk - Samson
-*Capo 3*
+
 >  `Ami`Vap tap `D F E Ami E`tap...
+
 1. `Ami`V devět hodin dvacet pět `D`mě opustilo štěstí,
 ten `F`vlak, co jsem jím měl jet, na koleji `E`dávno `E7`nestál,
 `Ami`v devět hodin dvacet pět `D`jako bych dostal pěstí,

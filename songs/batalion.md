@@ -2,13 +2,13 @@
 ## Spirituál kvintet
 *Capo 3*
 
-> `Ami`Víno `C`máš a `G`marky`Ami`tánku, dlouhá `C`noc `G`se `Ami`pro-`Emi`hý-`Ami`ří,
+> `Ami`Víno `C`máš a `G`marky`Ami`tánku, `C`dlouhá `G`noc se `Ami`pro-`Emi`hý-`Ami`ří,
 `Ami`víno `C`máš a `G`chvilku `Ami`spánku, `C`díky, `G`díky, `Ami`ver-`Emi`bí-`Ami`ři.
 
 1. `Ami`Dříve než se rozední, kapitán `C`k osedlání `G`rozkaz `Ami`dá`Emi`vá,
 `Ami`ostruhami do slabin ko`G`ně `Ami`po- `Emi`há- `Ami`ní.
 `Ami`Tam na straně polední, čekají `C`ženy, zlaťá`G`ky a `Ami`slá`Emi`va,
-`Ami`do výstřelů z karabin `G`zvon už `Ami`vy- `Emi`zvá-`Ami`ní.
+`Ami`do výstřelů z karabin zvon `G`už `Ami`vy- `Emi`zvá-`Ami`ní.
 
 >> `Ami`Víno na ku`C`ráž, a `G`pomilovat marky`Ami`tánku,
 zítra do Bu`C`rgund, ba`G`talio`Ami`n za-`Emi`mí-`Ami`ří.

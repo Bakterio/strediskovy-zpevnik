@@ -1,6 +1,5 @@
 # Amazonka
 ## Hop Trop
-*Capo 2*
 
 `G_Gsus4_G`
 

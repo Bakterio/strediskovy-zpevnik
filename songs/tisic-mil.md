@@ -1,6 +1,8 @@
 # Tisíc mil
 ## Hedy West (český text: Ivo Fisher)
 
+!-5
+
 1. `G`V nohách mám už tisíc `Emi`mil,
 stopy `Ami`déšť a vítr `C`smyl
 a můj `Ami`kůň i já jsme ces`D`tou znave`G`ni.  

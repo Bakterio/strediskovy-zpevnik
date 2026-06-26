@@ -15,12 +15,14 @@
 !>
 
 2. Toužil najít studánečku 
-   a do ní se podívat, 
-   by mu řekla: proč, holečku, 
-   musíš světem chodívat. 
+a do ní se podívat, 
+by mu řekla: proč, holečku, 
+musíš světem chodívat. 
+
 3. Studánečka promluvila: 
-   to ses' musel nachodit, 
-   abych já ti pravdu řekla, 
-   měl ses' jindy narodit. 
-          Ami   Emi     Ami 
-R: + [: před sebou sta sáhů.. :] 
+to ses' musel nachodit, 
+abych já ti pravdu řekla, 
+měl ses' jindy narodit. 
+
+!> + /: `Ami`před se`Emi`bou sta `Ami`sáhů. :/
+

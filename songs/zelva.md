@@ -1,6 +1,8 @@
 # Želva
 ## Olympic
 
+!-7
+
 1. `G`Ne moc `C`snadno se `G`želva `C`po dně honí, `G_C_G_C`
 `G`velmi `C`radno je `G`plavat `C`na dno za ní, `G_C_G`
 potom `D`počkej, až se zeptá na to, `Emi`co tě v mozku lechtá, 

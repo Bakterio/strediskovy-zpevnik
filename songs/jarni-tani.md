@@ -1,13 +1,10 @@
 # Jarní tání
 ## Nedvědi
 
-*MODRÉ - capo 2*
+!-2
 
-!!-2
-
-### Předehra
-\
 `Hmi_`
+
 1. `Hmi`Když první tání `Emi`cesty sněhu `D`zkříží
 `G`a nad `Emi`ledem se `F#`voda obje`Hmi`ví,
 voňavá `Hmi`zem se `Emi`sněhem tiše `D`plíží,
@@ -15,8 +12,8 @@ voňavá `Hmi`zem se `Emi`sněhem tiše `D`plíží,
 
 > Přišel čas `G`slunce, zrození a `D`tratí,
 na kterejch `G`potkáš kluky ze všech `D`stran,`F#`
-[: Hubenej `Hmi`Joe, Čára, Ušoun se ti `Emi`vrátí,
-oživne `G`kemp, `F#`jaro, vítej k `Hmi`nám. :]
+/: Hubenej `Hmi`Joe, Čára, Ušoun se ti `Emi`vrátí,
+oživne `G`kemp, `F#`jaro, vítej k `Hmi`nám. :/
 
 2. Kdo ví, jak voní země, když se budí,
 pocit má vždy, jak zrodil by se sám,

@@ -1,8 +1,10 @@
 # Cesta na Island
 ## Miki Ryvola
 
+!+7
+
 > `C`Nechci vo něm slyšet, nechci nikdy vidět `G`islandskej kraj,
-mý šedivý vlasy mi `D`za pravdu `G`daj'.
+mý šedivý vlasy mi `D`za pravdu `G`daj.
 
 1. Až `G`někdo ti, hochu, vo `C`Islandu řekne,
 svým `D`koltem ho přikrej a `G`buď na něj zlej,
