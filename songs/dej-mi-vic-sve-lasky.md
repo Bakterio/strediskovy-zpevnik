@@ -26,5 +26,3 @@ zamknu si na sedm západů.
 
 !>
 
-4. = 3.
-

@@ -38,7 +38,7 @@ Svědomí měl, vedle nich si klek…
 
 
 >> Jen tři `F`kříže z `C`bílýho kame`Ami`ní,
-někdo `Dmi`do písku `C`posklá`Dmi`dal.
-Slzy `F`v očích měl `C`a v ruce znave`Ami`ný,
-lodní `Dmi`deník..... `C`a v něm co jsem  `Dmi`psal. `D`
+jsem jim `Dmi`do písku `C`posklá`Dmi`dal.
+Slzy `F`v očích jsem měl `C`a v ruce znave`Ami`ný,
+lodní `Dmi`deník..... `C`a v něm co jsem `Dmi`psal. `D`
 

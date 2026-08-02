@@ -36,4 +36,4 @@ kdo je sám, jako já,
 Kdo má srdce v správným místě, kdo je prostě prima kluk.
 Ať se na hudsonský šífy najmout dá, jo ho ho.
 
-!> *(na konci `_A_`)*
+!> + `G`jo ho `A`ho.

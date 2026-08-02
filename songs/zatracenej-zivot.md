@@ -31,7 +31,7 @@ Belzebub vedle mě stál.
 !>
 
 5. Jó, rychle oplácí tenhleten svět,
-než bys napočítal pět,
+než bys napočítal pět (šest sedm),
 Ďáblovým kaňonem musel jsem jet,
 když jsem se navracel zpět.
 
@@ -41,7 +41,7 @@ Belzebub s partou stál vprostřed cesty,
 zavětřil jsem neštěstí.
 
 >> `G`Povídá: `C`Jupí, čerte, `G`jdi radši dál,
-pak jsem ho za rohy `D`vzal (a zahodil!),
+potom mě za nohy `D`vzal (a zahodil!),
 `G`udělal jsem přemet, `C`jako tur `G`řval,
-do dáli `D`upalo`G`val.
+/: do dáli jsem `D`upalo`G`val. :/
 

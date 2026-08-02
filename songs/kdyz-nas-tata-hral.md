@@ -22,7 +22,7 @@ tak zase slyšet svýho tátu hrát.
 \
 `D`Ona je `G`nejkrásnější z cel`D`ýho JZD
 `A7`to říkají `D`všichni sousedé.
-je `G`nejkrásnější z cel`D`ýho JZD
+ona je `G`nejkrásnější z cel`D`ýho JZD
 `A7`to říkají sousedé.`D`
 
 3. Ta písnička mě vedla mým celým životem,
@@ -37,8 +37,15 @@ od `G`fabriky k fabrice `D`jatatata `A7`ratatata!
 S `D`dělníky ruku v ruce, `G`prapory revoluce
 `A7`po celé zemi rozvi`D`nem.
 
-4. To všechno už je dávno, táta je pod zemí,
+4. To už je všechno dávno, táta je pod zemí,
 když je noc a měsíc, potom zdá se mi,
 jako bych od hřbitova, kam tátu dali spát,
 zase jeho píseň slyšel hrát.
+
+### Výčep
+\
+`D`Kvý kvý kvý - `G`kvý kvý kvý kvý - `D`kvýčepu
+`A7`najdu cestu `D`třeba poslepu.
+`D`Kvý kvý kvý - `G`kvý kvý kvý kvý - `D`kvýčepu
+`A7`najdu cestu poslepu. `D`
 

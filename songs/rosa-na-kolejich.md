@@ -15,7 +15,7 @@ podivnej `Dmi`pták, `_Emi_` pták nebo `C`mrak.
 vzít do dlaně `Dmi`dálku, `Emi`zase jednou `C`zkus.
 Telegrafní `Dmi`dráty, `Emi`hrajou `Dmi`ti už `C`léta,
 to nekonečně `Dmi`dlou`Esm`hý `Emi`monot`Dmi`ónní `C`blues.
-`C`Je ráno, je ráno, nohama `Dmi`stír`Esm`áš `Emi`rosu `Dmi`na kole`C`jích.
+`C`Je ráno, zas ráno, nohama `Dmi`stír`Esm`áš `Emi`rosu `Dmi`na kole`C`jích.
 
 2. `C`Pajda dobře `Dmi`hlídá pocest`Emi`ný, co se nocí `C`toulaj, 
 `C`co si radši `Dmi`počkaj až `Emi`se stmí a pak šlapou `C`dál,
